@@ -1,3 +1,3 @@
-[![Header](./images/banner-github.png "Header")]
+[![Header](./images/banner-github.png "Header")
 
 
