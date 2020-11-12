@@ -12,13 +12,16 @@ I have special interest in segments like the use of technology for inclusive edu
 
 ---
 
+### Find me on: ###
+
+[![My LinkedIn](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/carlos-andres-murcia-munoz/) [![My Twitter](https://img.shields.io/badge/%20-Twitter-gray?style=for-the-badge&logo=Twitter)](https://twitter.com/charliesoka)
+
+---
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Charliemur2&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charliemur2&layout=compact)
 
 ---
 
-### Find me on: ###
-
-[![My LinkedIn](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/carlos-andres-murcia-munoz/) [![My Twitter](https://img.shields.io/badge/%20-Twitter-gray?style=for-the-badge&logo=Twitter)](https://twitter.com/charliesoka)
 
 
 
