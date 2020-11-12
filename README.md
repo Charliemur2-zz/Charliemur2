@@ -18,7 +18,7 @@ I have special interest in segments like the use of technology for inclusive edu
 
 ### Find me on: ###
 
-<a href="https://www.linkedin.com/in/carlos-andres-murcia-munoz/"><button>LinkedIn<button></a> 
-<a href="https://twitter.com/charliesoka"><button>Twitter<button></a> 
+[![My LinkedIn](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/carlos-andres-murcia-munoz/) [![My Twitter](https://img.shields.io/badge/%20-Twitter-gray?style=for-the-badge&logo=Twitter)](https://twitter.com/charliesoka)
+
 
 
